@@ -1,4 +1,4 @@
-#! bin/bash
+#! /bin/bash
 
 echo "hi iam learning devops"
 echo "what about you"
