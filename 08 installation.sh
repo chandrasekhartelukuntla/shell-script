@@ -30,3 +30,4 @@ else
     echo "Installation of git....SUCCESS"
 fi
 echo "is script proceeding"
+
